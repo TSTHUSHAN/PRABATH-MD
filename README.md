@@ -33,9 +33,9 @@
 ![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
 
 
-
+deploy methods👇
   
- ## DEPLOYMENT METHODS
+ ##👨‍🦰
  
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
